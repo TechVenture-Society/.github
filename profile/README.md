@@ -6,5 +6,8 @@
 
 To contribute to our development, join the server in the discord.
 
+[Discord](https://discord.gg/fjQDaThv)
+
+
 We're looking forward to collaborate with you.
 
