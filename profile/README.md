@@ -1,6 +1,6 @@
 # NebulaX-Navigator
 </p>
-      <img src="https://i.imgur.com/cek6Mgb.png" Project Logo Url" width="350">
+      <img src="https://i.imgur.com/cek6Mgb.png" Project Logo Url" width="250">
 <p>
 **Create your own destiny with an incredible journey**
 
