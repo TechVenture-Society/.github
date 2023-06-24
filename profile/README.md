@@ -1,7 +1,3 @@
-</p>
-      <img src="https://i.imgur.com/cek6Mgb.png" Project Logo Url" width="250">
-<p>
-
 **Create your own destiny with an incredible journey**
 
 To contribute to our development, join the server in the discord.
